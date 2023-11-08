@@ -2,6 +2,8 @@
 
 Welcome to the Checkers Project. This is a Java-based implementation of the classic game of checkers, featuring a graphical user interface, game logic, and a model representing the game's state.
 
+![PREVIEW](img/preview.png)
+
 ## Structure
 
 The project is organized into three main folders, each encapsulating a different aspect of the application:
